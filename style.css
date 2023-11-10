@@ -1,0 +1,31 @@
+/* Color Name */
+/* h1{
+    color: red;
+    background-color: wheat;
+}
+body{
+  background-color: rgb(66, 227, 245);
+} */
+/* hex code */
+/* h1{
+  color: #03f8fc;
+} */
+/* h1{
+  color: rgb(252, 3, 207);
+} */
+/* Background Color */
+/* body{
+  background-color:wheat
+} */
+/* div{
+  background-color: whitesmoke;
+  color: rgb(238, 130, 130);
+} */
+/* Opicity */
+/* #dive1{
+  background-color: wheat;
+  opacity: 0.5;
+} */
+#pic1{
+  opacity: 0.3;
+}
